@@ -37,11 +37,12 @@ Power BI dashboards provide a high-level overview of Transjakarta performance me
 
 ## 📸 Screenshots
 
-| Dashboard Page           | Preview |
-|--------------------------|---------|
-| **Fleet KPIs Overview**  | ![Fleet KPIs](assets/fleet-kpis.jpg.jpg) |
-| **Revenue Breakdown**    | ![Revenue Breakdown](assets/revenue-breakdown.jpg.jpg) |
-| **Driver Performance**   | ![Driver Performance](assets/driver-performance.jpg.jpg) |
+| Dashboard Page                        | Preview                          |
+|-------------------------------------|--------------------------------|
+| **Transjakarta Overview**            | ![Transjakarta Overview](BRT_page-0001.jpg)      |
+| **Revenue & Payment Breakdown**      | ![Revenue & Payment Breakdown](BRT_page-0002.jpg) |
+| **Transaction Patterns & Rush Hours**| ![Transaction Patterns & Rush Hours](BRT_page-0003.jpg) |
+
 
 > ⚠️ If images don't show, confirm the filenames and locations inside the `assets/` folder.
 
