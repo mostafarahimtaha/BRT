@@ -43,9 +43,6 @@ Power BI dashboards provide a high-level overview of Transjakarta performance me
 | **Revenue & Payment Breakdown**      | ![Revenue & Payment Breakdown](BRT_page-0002.jpg) |
 | **Transaction Patterns & Rush Hours**| ![Transaction Patterns & Rush Hours](BRT_page-0003.jpg) |
 
-
-> ⚠️ If images don't show, confirm the filenames and locations inside the `assets/` folder.
-
 ---
 
 ## 📈 Data Science Analysis – `BRTanalysis.ipynb`
